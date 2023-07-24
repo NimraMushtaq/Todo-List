@@ -6,7 +6,9 @@ Todo List App is a simple and interactive web application built using React.js, 
 You can create task,update task ,delete task and mark a task as complete or incomplete by clicking on it.
 
 Check out the app on this link
+https://nimramushtaq.github.io/Todo-List/
 
+![](https://github.com/NimraMushtaq/Todo-List/blob/main/pic.png)
 
 # Getting Started with Create React App
 
